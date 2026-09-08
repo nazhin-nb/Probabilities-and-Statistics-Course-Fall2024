@@ -28,7 +28,7 @@ This repository contains the complete implementation and technical documentation
 
 ```text
 CA1/
-├── CA1-Nikkhahbahrami-810102530.pdf  # Detailed Persian report with analytical derivations & plots
+├── CA1-Nikkhahbahrami-810102530.pdf  # Detailed coursework report with analytical derivations & plots
 ├── EPS_CA1.pdf                       # Official assignment description & problem statements
 ├── Q1.ipynb                          # Hypergeometric modeling & Binomial convergence in R
 ├── Q2.ipynb                          # Normal approximation & continuity correction in R
